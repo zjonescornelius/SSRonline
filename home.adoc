@@ -1,4 +1,4 @@
-= Trojan使用教程
+= Trojan使用教程1
 
 TIP: widows使用教程：link:/windows-trojan[windows-trojan]
 
