@@ -1,0 +1,25 @@
+= Trojan使用教程
+
+WARNING: widows使用教程：link:/windows-trojan[windows-trojan]
+
+WARNING: Mac使用教程：link:/mac-trojan[mac-trojan]
+
+WARNING: IOS使用教程：link:/ios-trojan[ios-trojan]
+
+WARNING: Andorid使用教程link:/Andorid-trojan[Andorid-trojan]
+
+= v2ray使用教程
+
+
+WARNING: windows使用教程：link:/windows-v2ray[windows-v2ray]
+
+WARNING: Mac 使用教程：link:/MacOS-v2ray[MacOS-v2ray]
+
+WARNING: IOS 使用教程：link:/ios-v2ray[ios-v2ray]
+
+WARNING: Android使用教程：link:/android-v2ray[android-v2ray]
+
+
+= 其他
+
+WARNING: 国外Apple ID注册：link:/AppleID[AppleID]
