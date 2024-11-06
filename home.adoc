@@ -6,7 +6,7 @@ TIP: Mac使用教程：link:/mac-trojan[mac-trojan]
 
 TIP: IOS使用教程：link:/ios-trojan[ios-trojan]
 
-TIP: Andorid使用教程link:/Andorid-trojan[Andorid-trojan]
+TIP: Andorid使用教程：link:/Andorid-trojan[Andorid-trojan]
 
 = v2ray使用教程
 
