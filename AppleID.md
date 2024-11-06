@@ -2,10 +2,10 @@
 title: AppleID
 description: 
 published: true
-date: 2024-11-06T09:50:35.258Z
+date: 2024-11-06T12:24:20.038Z
 tags: 
 editor: markdown
-dateCreated: 2024-11-06T09:18:36.173Z
+dateCreated: 2024-11-06T12:24:18.206Z
 ---
 
 # 国外Apple ID 注册方法

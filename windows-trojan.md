@@ -2,10 +2,10 @@
 title: windows-trojan
 description: 
 published: true
-date: 2024-11-06T09:50:52.827Z
+date: 2024-11-06T12:24:45.173Z
 tags: 
 editor: markdown
-dateCreated: 2024-11-06T09:13:23.385Z
+dateCreated: 2024-11-06T12:24:43.348Z
 ---
 
 # Clash for windows 使用教程
@@ -17,9 +17,10 @@ dateCreated: 2024-11-06T09:13:23.385Z
 如果安装后还提示不支持该应用请下载32位的软件
 {.is-danger}
 
-> Github下载链接:[点击访问](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-32位系统本地下载链接：[clash.for.windows-x32.7z](/trojan/clash.for.windows-x32.7z)
-64位系统本地下载链接：[clash.for.windows-x64.7z](/trojan/clash.for.windows-x64.7z)
+> 32位系统下载链接：[clash.for.windows-x32.7z](/trojan/clash.for.windows-x32.7z)
+64位系统下载链接：[clash.for.windows-x64.7z](/trojan/clash.for.windows-x64.7z)
+云盘①下载：[clash](https://device.helpsme.org/s/dGjJHter23FDbwE)
+云盘②下载：[clash](https://s1.helpsme.org/Clash.for.Windows-0.20.7-ia32-win.7z)
 {.is-success}
 
 
