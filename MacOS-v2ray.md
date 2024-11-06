@@ -2,10 +2,10 @@
 title: MacOS-v2ray
 description: 
 published: true
-date: 2024-11-06T09:50:37.643Z
+date: 2024-11-06T12:24:22.788Z
 tags: 
 editor: markdown
-dateCreated: 2024-11-06T09:00:14.449Z
+dateCreated: 2024-11-06T12:24:20.952Z
 ---
 
 # v2rayX for MacOS 使用教程

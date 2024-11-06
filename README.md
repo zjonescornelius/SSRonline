@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2024-11-06T12:24:25.468Z
+tags: 
+editor: markdown
+dateCreated: 2024-11-06T12:24:23.640Z
+---
+
 = Trojan使用教程
 
 TIP: widows使用教程：link:/windows-trojan[windows-trojan]
