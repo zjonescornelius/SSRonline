@@ -2,7 +2,7 @@
 title: windows-v2ray
 description: 
 published: true
-date: 2024-11-06T12:24:47.971Z
+date: 2024-11-20T10:02:34.124Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:24:46.123Z
@@ -33,14 +33,14 @@ dateCreated: 2024-11-06T12:24:46.123Z
 ![m_1.gif](/images/trojan-img/m_1.gif)
 
 **2. 解压下载的文件包，客户端免安装，鼠标双击运行v2rayN.exe**
-![v2ray1.jpg](/images/v2ray-img/v2ray1.jpg)
+![windows1.jpg](/v2ray-img/windows1.jpg)
 
 **3. 添加第一步复制的订阅地址。**
-![1.png](/images/v2ray-img/1.png)
+![windows2.jpg](/v2ray-img/windows2.jpg)
 **4. 更新订阅。**
-![2.png](/images/v2ray-img/2.png)
+![windows3.jpg](/v2ray-img/windows3.jpg)
 **5. 在电脑右下角鼠标右键客户端软件，开启代理开始使用。**
-![3.png](/images/v2ray-img/3.png)
+![4.png](/v2ray-img/4.png)
 
 > 常见问题：
 一、更新订阅失败？
