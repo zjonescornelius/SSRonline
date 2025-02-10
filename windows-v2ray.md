@@ -2,7 +2,7 @@
 title: windows-v2ray
 description: 
 published: true
-date: 2024-11-20T10:02:34.124Z
+date: 2025-02-10T06:09:11.528Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T12:24:46.123Z
@@ -40,7 +40,7 @@ dateCreated: 2024-11-06T12:24:46.123Z
 **4. 更新订阅。**
 ![windows3.jpg](/v2ray-img/windows3.jpg)
 **5. 在电脑右下角鼠标右键客户端软件，开启代理开始使用。**
-![4.png](/v2ray-img/4.png)
+![4.png](/images/v2ray-img/4.png)
 
 > 常见问题：
 一、更新订阅失败？
