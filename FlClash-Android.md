@@ -1,15 +1,13 @@
 ---
-title: 
-description: 
+title: FlClash Android端使用教程-下载安卓、添加订阅、代理选择
+description: lClash 是一个多平台的网络代理客户端，本文将详细介绍 FlClash 安卓端的使用教程。
 published: true
-date: 2026-04-30T22:31:48.682Z
+date: 2026-04-30T22:32:54.783Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-30T22:29:17.409Z
 ---
 
-# FlClash Android端使用教程-下载安卓、添加订阅、代理选择
-lClash 是一个多平台的网络代理客户端，本文将详细介绍 FlClash 安卓端的使用教程。
 ## FlClash 下载安装
 下面是各操作系统平台的直接下载地址。更多版本可以参考 FlClash 版本更新记录，这里我们选择Android 版本下载。
 - Android 版本下载：[ARMv8](https://device.helpsme.org/files/Flclash) | [ARMv7](https://device.helpsme.org/files/Flclash) | [64位](https://device.helpsme.org/files/Flclash)
