@@ -21,9 +21,9 @@ TIP: Android使用教程：link:/android-v2ray[android-v2ray]
 
 = Flclash使用教程
 
-TIP: PC桌面平台使用教程：link:/windows-v2ray[windows-v2ray]
+TIP: PC桌面平台使用教程：link:/FlClash[FlClash]
 
-TIP: Android使用教程：link:/MacOS-v2ray[MacOS-v2ray]
+TIP: Android使用教程：link:/FlClash-Android[FlClash-Android]
 
 = 其他
 
