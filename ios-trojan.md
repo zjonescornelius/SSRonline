@@ -2,10 +2,10 @@
 title: ios-trojan
 description: 
 published: true
-date: 2024-11-06T12:24:36.900Z
+date: 2026-05-11T21:45:46.667Z
 tags: 
 editor: markdown
-dateCreated: 2024-11-06T12:24:34.878Z
+dateCreated: 2026-04-30T20:39:17.475Z
 ---
 
 # Shadowrocket 小火箭使用教程
@@ -13,7 +13,7 @@ dateCreated: 2024-11-06T12:24:34.878Z
 
 
 > 中国大陆地区Apple ID不提供 Shadowrocket，您需要其它国家或地区的 Apple ID 才能下载。
-可以自己[注册国外苹果账号](/zh/AppleID) 或者 [获取免费苹果账号](https://captcha.helpsme.org/)
+可以自己[注册国外苹果账号](/zh/AppleID) 或者 [获取免费苹果账号](https://appleid.helpsme.org/)
 注意！下载小火箭仅需登录App Store ，不要登录icloud，不要登录icloud，不要登录icloud。
 {.is-danger}
 
